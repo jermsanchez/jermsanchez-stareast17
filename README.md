@@ -30,6 +30,8 @@ Syntax highlighted code block
 |--------|--------|
 |Blah| blah2| 
 
+![Awesome Keyboards](https://massdrop-s3.imgix.net/product-images/magicforce-68-key-mini-mechanical-keyboard/MD-21938_20160622124549_bc41b1d6a2f11eaf.jpg?auto=format&fm=jpg&fit=crop&w=473&dpr=1)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
